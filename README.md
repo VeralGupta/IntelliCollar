@@ -26,8 +26,8 @@ This project is an **ESP32-based animal health tracking system** that monitors v
 ## Installation & Setup
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/animal-health-tracker.git
-   cd animal-health-tracker
+   git clone https://github.com/VeralGupta/IntelliCollar.git
+   cd IntelliCollar
    ```
 2. **Install dependencies:**
    - Open the project in **Arduino IDE**
