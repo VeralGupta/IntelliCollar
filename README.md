@@ -48,6 +48,3 @@ Contributions are welcome! Feel free to fork this repository, submit issues, or 
 ## License
 This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-For queries or collaboration, reach out via [your-email@example.com] or open an issue on GitHub.
-
